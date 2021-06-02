@@ -7,7 +7,8 @@ archivo en cualquiera de estas carpetas, estás en el lugar equivocado.
 
 /* Arrancaremos este ejercicio por vos: */
 #ejercicioUno {
-
+	display: block;
+	text-align: center;
 }
 
 
@@ -15,11 +16,22 @@ archivo en cualquiera de estas carpetas, estás en el lugar equivocado.
 
 /* Acá va tu código */
 
+#ejercicioDos{
+/*	border: none; */
+	display: none;
+}
+
 
 
 /* Ejercicio 3: */
 
 /* Acá va tu código */
+
+#ejercicioTres{
+	position: relative;
+	top: 100px;
+	left: 200px;
+}
 
 
 
@@ -27,12 +39,44 @@ archivo en cualquiera de estas carpetas, estás en el lugar equivocado.
 
 /* Acá va tu código */
 
+#ejercicioCuatro{
+	position: absolute; /* fixed se mueve cuando se escrolea, absolute se queda fijo arriba*/
+	top:  0px;
+	left:  0px;
+}
 
 
 /* Ejercicio 5: */
 
 /* Acá va tu código */
 
+#ejercicioCinco{
+	display: flex;
+	flex-direction: row-reverse;
+	align-content: stretch;
+    justify-content: space-around;
+    align-items: center;
+}
+
 
 
 /* Ejercicio 6. */
+
+#ejercicioSiete{
+	
+}
+
+#elementoUno {
+    align-self: flex-end;
+}
+
+#elementoDos {
+    align-self: center;
+}
+
+#elementoTres {
+    order: -1;
+
+}
+#elementoCuatro {
+    align-self: center;
