@@ -1,0 +1,14 @@
+EXPLICACIÓN DE LOS CONCEPTOS
+
+* for:
+	Los bucles o ciclos nos sirven para repetir una tarea las veces que consideremos necesario.
+	El ciclo "for" se va a repetir mientras se cumpla una condición. La estructura del ciclo for es la siguiente:
+	for(inicialización; condición; incremento){
+		//Tarea a realizar mientras se cuempla la condición
+	} 
+
+* &&, ||, !
+	Los operadores lógicos son sirven para comparar elementos y posteriormente realizar una tarea (o no) dependiendo del resultado.
+	&& (AND) se utiliza cuando queremos comparar dos o más elementos y que sean exactamente iguales
+	|| (OR) lo utilizamos para comparar dos o más elementos y con que uno cumpla con la igualdad, la tarea asignada se ejecutará
+	! (NOT) este elemento nos sirve para negar o invertir el resultado de una condición o expresión
