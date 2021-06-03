@@ -1,0 +1,19 @@
+CONCEPTOS
+
+	* Variables:
+	Una variable es es un lugar en la computadora que guarda distintos valores.
+	A grandes rasgos, puede almacenar nùmeros, letras, palabras y frases. Las variables cambian de valor segùn sea necesario.
+
+	* Strings:
+	Un string es una cadena de caracteres, es decir, una cadena de letras y/o sìmbolos y/o números.
+
+	* Funciones (argumentos, `return`)
+	Una función es una parte específica del código que hace una serie de tareas independientes del resto.
+	Una función puede o no tener parámetros, esto es, que puede recibir uno o más valores dados por el usuario; esos datos que son recibidos
+	son llamados "argumentos". Con los argumentos recibidos, la función puede realizar distintas tareas, como operaciones, hacer frases, etc., cuando la función se ha terminado de ejecutar va a regresar "algo", a esto se le llama "return".
+
+	* Declaraciones `if`
+	La declaración if es una condición. Se utiliza cuando queremos validar algo, por ejemplo, si un número es mayor o menor que otro, si algo está escrito correctamente y más. Si la condición se cumple, entonces se ejecutará la parte asignada, si no se cumple, se ejecutará otra parte del código.
+
+	* Valores booleanos (`true`, `false`)
+	Los valores booleanos solo pueden ser verdaderos (true) o falsos (false). Dependiendo de lo que estemos haciendo es como lo vamos a utilizar. Pueden ser utiles cuando queremos saber si una condición se cumple o no.
