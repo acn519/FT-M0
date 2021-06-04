@@ -120,6 +120,7 @@ function estaEnRango(numero) {
   } else {
     return false;
   }
+  //return numero < 50 && numero > 20; otra manera de hacerlo
 }
 
 function esEntero(numero) {
@@ -135,6 +136,8 @@ function esEntero(numero) {
   } else {
     return false;
   }
+  // return Math.floor(numero) === numero; otra forma de hacerlo
+  // return numero % 1 === 0;
 }
 
 function fizzBuzz(numero) {
@@ -238,6 +241,13 @@ function tieneTresDigitos(numero) {
     return false;
   }
 }
+/*
+if(String(Math.abs(numero)).length === 3) {
+    return true;
+  }
+  return false;
+
+*/
 
 function doWhile(numero) {
   //Implementar una función tal que vaya aumentando el valor recibido en 5 hasta un límite de 8 veces

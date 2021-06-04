@@ -1,0 +1,6 @@
+EXPLICACIÓN DE CONCEPTOS
+
+* Arrays:
+	Un arreglo o array se puede ver como un contenedor que almacena información de diferentes tipos. Puede guardar números, letras, frases e incluso otro arreglo. 
+	Todo lo que almacena puede ser de un solo tipo o puede ser combinado.
+	Con los arreglos se pueden hacer operaciones, obetener información específica, eliminar o agregar elementos. 
